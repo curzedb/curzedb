@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @curzedb
+- 👋 Hi, I’m @jafarrahadian
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning at indonesian private university
 - 💞️ I’m looking to collaborate on my project
