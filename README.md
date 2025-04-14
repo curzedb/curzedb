@@ -60,13 +60,18 @@ I am a Beginner Machine Learning Engineer passionate about developing and sharin
 <br>
 
 -----------------------------------------------------------------------------------------
-<p align="left">
+<p align="center">
 <a href="https://github.com/curzedb">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=curzedb&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curzedb&layout=compact&langs_count=8&theme=default"/>
 </a>
 </p>
 
+-----------------------------------------------------------------------------------------
+<p align="center">
+<a href="https://github.com/curzedb">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curzedb&layout=compact&langs_count=8&theme=default"/>
+</a>
+</p>
 
 
 <!---
