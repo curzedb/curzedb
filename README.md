@@ -33,11 +33,39 @@ I am a Beginner Machine Learning Engineer passionate about developing and sharin
 
 ### Operating System
 <a href="https://www.microsoft.com/en-us/windows?r=1"><img align="left" alt="Windows" title="Windows" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" /></a>
+<a href="https://ubuntu.com/download/server"><img align="left" alt="UServer" title="UServer" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" /></a>
+<a href="https://www.apple.com/id/macos/macos-sequoia/"><img align="left" alt="MAC" title="MAC" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" /></a>
 <br>
 <br>
 
+### Other Tools
+<a href="https://www.openstack.org/"><img align="left" alt="Openstack" title="Openstack" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/OpenStack-Light.svg" /></a>
+<a href="https://www.adobe.com/id_id/products/premiere.html"><img align="left" alt="Premiere" title="Premiere" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Premiere.svg" /></a>
+<a href="https://www.adobe.com/id_id/products/photoshop.html"><img align="left" alt="Photoshop" title="Photoshop" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Photoshop.svg" /></a>
+<a href="https://www.canva.com"><img align="left" alt="canva" title="canva" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" /></a>
+<br>
+<br>
 
+### My PC specifications
+1.	Processor		: AMD Ryzen 7 5700X, 4.6 Ghz, 8 Core 16 Thread.
+2.	RAM		      : Geil DDR4 Orion 3200Mhz 32GB (2X16GB).
+3.	Motherboard	: MSI MPG B550 Gaming Plus.
+4.	GPU        	: Inno3D RTX 3060 12GB LHR.
+5.	SSD		      : Klevv C910 Lite 500GB.
 
+### Contact Me
+- LinkedIn: <a href="https://www.linkedin.com/in/jafar-rahadian//"><img align="center" alt="LinkedIn" title="LinkedIn" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg"/></a>
+
+- Mail: <a href="mailto:muhammadjafar954@gmail.com"><img align="center" alt="mailto" title="mailto" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Gmail-Light.svg"/></a>
+<br>
+
+-----------------------------------------------------------------------------------------
+<p align="left">
+<a href="https://github.com/curzedb">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=curzedb&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curzedb&layout=compact&langs_count=8&theme=default"/>
+</a>
+</p>
 
 
 
