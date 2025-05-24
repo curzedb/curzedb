@@ -2,7 +2,7 @@
 
 I am a Machine Learning Engineer and Fullstack Programmer who passionate about developing and sharing projects related to AI and data-driven solutions. I specialize in Python programming and use it as my primary tool for building machine learning models and applications.
 
-- 👀 I’m interested in the field of python programming, especially for machine learning case studies.
+- 👀 I’m interested in the field of programming, especially for machine learning case studies.
 - 🌱 I’m currently Fresh Graduate with a bachelor's degree in informatics engineering from Universitas Muhammadiyah Prof. Dr. Hamka. 
 - 💞️ I’m looking to collaborate on my project and I need a job
 - 📫 reach me at: muhammadjafar954@gmail.com
