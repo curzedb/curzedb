@@ -18,6 +18,7 @@ I am a Machine Learning Engineer and Fullstack Programmer who passionate about d
 
 ### Virtualization Tools 
 <a href="https://www.docker.com"><img align="left" alt="Docker" title="Docker" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" /></a>
+<a href="https://www.proxmox.com"><img align="left" alt="ProxMox" title="ProxMox" width="32px" src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/refs/heads/main/assets/proxmox.svg" /></a>
 <br>
 <br>
 
