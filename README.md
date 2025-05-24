@@ -8,16 +8,6 @@ I am a Machine Learning Engineer and Fullstack Programmer who passionate about d
 - 📫 reach me at: muhammadjafar954@gmail.com
 - 📷 I also like to create technology related content
 
-### Python
-<a href="https://python.org/"><img align="left" alt="Python" title="Python" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" /></a>
-<a href="https://numpy.org/"><img align="left" alt="Numpy" title="Numpy" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" /></a>
-<a href="https://pandas.pydata.org/"><img align="left" alt="Pandas" title="Pandas" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" /></a>
-<a href="https://tensorflow.org/"><img align="left" alt="Tensorflow" title="Tensorflow" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" /></a>
-<a href="https://pytorch.org/"><img align="left" alt="PyTorch" title="PyTorch" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PyTorch-Light.svg" /></a>
-<br>
-<br>
-
-
 ### Tools
 <a href="https://jupyter.org/"><img align="left" alt="Jupyter" title="Jupyter" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" /></a>
 <a href="https://colab.google/"><img align="left" alt="Colab" title="Colab" width="32px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/colab-color.png" /></a>
