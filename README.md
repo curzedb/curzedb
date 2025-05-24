@@ -69,7 +69,7 @@ I am a Machine Learning Engineer and Fullstack Programmer who passionate about d
 -----------------------------------------------------------------------------------------
 <p align="center">
 <a href="https://github.com/curzedb">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curzedb&layout=compact&langs_count=8&theme=default"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curzedb&layout=compact&langs_count=8"/>
 </a>
 </p>
 
