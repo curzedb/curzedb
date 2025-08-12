@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Jafar Rahadian
 
-I am a Fullstack Web-based Application Programmer and Machine Learning Engineer, passionate about developing and sharing projects related to automation, artificial intelligence, and data-driven solutions. I specialize in JavaScript, PHP (Laravel Framework), and Python, which I use as my primary programming languages for building automatioin, machine learning, and LLM-based applications.
+I am a Fullstack Web-based Application Programmer and Machine Learning Engineer, passionate about developing and sharing projects related to automation, artificial intelligence, and data-driven solutions. I specialize in JavaScript, PHP (Laravel Framework), and Python, which I use as my primary programming languages for building automation, machine learning, and LLM-based applications.
 
 - 👀 I’m interested in the field of programming, especially for machine learning case studies.
 - 🌱 I’m currently work as a IT all role Internship at Private Company in Indonesia. 
