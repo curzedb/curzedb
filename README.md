@@ -1,12 +1,12 @@
 ### 👋 Hi, I’m Jafar Rahadian
 
-I am a Machine Learning Engineer and Fullstack Programmer who passionate about developing and sharing projects related to AI and data-driven solutions. I specialize in Python programming and use it as my primary tool for building machine learning models and applications.
+I am a Fullstack Web-based Application Programmer and Machine Learning Engineer, passionate about developing and sharing projects related to automation, artificial intelligence, and data-driven solutions. I specialize in JavaScript, PHP (Laravel Framework), and Python, which I use as my primary programming languages for building automatioin, machine learning, and LLM-based applications.
 
 - 👀 I’m interested in the field of programming, especially for machine learning case studies.
 - 🌱 I’m currently work as a IT all role Internship at Private Company in Indonesia. 
-- 💞️ I’m looking to collaborate on my project and I need a job
+- 💞️ I’m looking to collaborate on my project and I need a better job. :)
 - 📫 reach me at: muhammadjafar954@gmail.com
-- 📷 I also like to create technology related content
+- 📷 I also like to create technology related content.
 
 ### Tools
 <a href="https://jupyter.org/"><img align="left" alt="Jupyter" title="Jupyter" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" /></a>
