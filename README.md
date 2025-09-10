@@ -8,6 +8,8 @@ I am a Fullstack Web-based Application Programmer and Machine Learning Engineer,
 - 📫 reach me at: muhammadjafar954@gmail.com
 - 📷 I also like to create technology related content.
 
+Portofolio: <a href="https://curzedb.github.io/">curzedb.github.io</a>
+
 ### Tools
 <a href="https://jupyter.org/"><img align="left" alt="Jupyter" title="Jupyter" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" /></a>
 <a href="https://colab.google/"><img align="left" alt="Colab" title="Colab" width="32px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/colab-color.png" /></a>
@@ -63,7 +65,6 @@ I am a Fullstack Web-based Application Programmer and Machine Learning Engineer,
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curzedb&layout=compact&langs_count=8"/>
 </a>
 </p>
-
 
 <!---
 curzedb/curzedb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
