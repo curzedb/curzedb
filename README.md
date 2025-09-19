@@ -8,7 +8,7 @@ I am a Full-Stack Web-based Application Programmer and Machine Learning Engineer
 - 📫 reach me at: muhammadjafar954@gmail.com
 - 📷 I also like to create technology related content.
 
-Portofolio: <a href="https://curzedb.github.io/">curzedb.github.io</a>
+Portofolio: [jafarrahadian.vercel.app](https://jafarrahadian.vercel.app/) 
 
 ### Tools
 <a href="https://jupyter.org/"><img align="left" alt="Jupyter" title="Jupyter" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" /></a>
