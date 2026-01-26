@@ -125,7 +125,7 @@ I'm a **Full-Stack Web Developer** and **Machine Learning Engineer** based in In
 </p>
 
 <p align="center">
-  <em>💡 "Ut Supra, Sic Infra."</em>
+  <em>"Ut Supra, Sic Infra."</em>
 </p>
 
 <!---
