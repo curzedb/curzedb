@@ -53,7 +53,7 @@ I'm a **Full-Stack Web Developer** and **Machine Learning Engineer** based in In
 |---------|-------------|------------|
 | 🏭 **RFQ Automation System** | Full-stack automation web system for manufacturing | React, Node.js, SQL Server |
 | 📦 **RFID Delivery App** | RFID-based delivery tracking and management | Laravel, SQL Server |
-| ♻️ **Scrap Control System** | Scrap PCB control for manufacturing | Laravel, SQL Server |
+| ♻️ **Scrap Control System** | Scrap PCB control for manufacturing | Code Igniter, SQL Server |
 | 📊 **Continuous Audit Checksheet** | Ongoing audit management system | Laravel, SQL Server |
 | 📝 **Internal Claim Management** | Complaint documentation & claim tracking | Laravel, SQL Server |
 | 📊 **AI/ML APPS** | AI/ML applications for manufacturing | Flask, Next.js, MySQL |
