@@ -1,71 +1,135 @@
-### 👋 Hi, I’m Jafar Rahadian
-
-I am a Full-Stack Web-based Application Programmer and Machine Learning Engineer, passionate about developing and sharing projects related to automation, artificial intelligence, and data-driven solutions. I specialize in Python, PHP (Laravel Framework), JS, & TS. Used for building automation, machine learning, and LLM-based applications.
-
-- 👀 I’m interested in the field of programming, especially for machine learning case studies.
-- 🌱 I’m currently work as a IT all role Internship at Private Company in Indonesia. 
-- 💞️ I’m looking to collaborate on my project and I need a better job. :)
-- 📫 reach me at: muhammadjafar954@gmail.com
-- 📷 I also like to create technology related content.
-
-Portofolio: [jafarrahadian.vercel.app](https://jafarrahadian.vercel.app/) 
-
-### Tools
-<a href="https://jupyter.org/"><img align="left" alt="Jupyter" title="Jupyter" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" /></a>
-<a href="https://colab.google/"><img align="left" alt="Colab" title="Colab" width="32px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/colab-color.png" /></a>
-<a href="https://www.jetbrains.com/pycharm/"><img align="left" alt="PyCharm" title="PyCharm" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" /></a>
-<a href="https://code.visualstudio.com/"><img align="left" alt="VSC" title="VSC" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VSCode-Light.svg" /></a>
-<br>
-<br>
-
-### Virtualization Tools 
-<a href="https://www.docker.com"><img align="left" alt="Docker" title="Docker" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" /></a>
-<a href="https://www.proxmox.com"><img align="left" alt="ProxMox" title="ProxMox" width="32px" src="https://raw.githubusercontent.com/loganmarchione/homelab-svg-assets/refs/heads/main/assets/proxmox.svg" /></a>
-<br>
-<br>
-
-### Operating System
-<a href="https://www.microsoft.com/en-us/windows?r=1"><img align="left" alt="Windows" title="Windows" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" /></a>
-<a href="https://ubuntu.com/download/server"><img align="left" alt="UServer" title="UServer" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" /></a>
-<a href="https://www.apple.com/id/macos/macos-sequoia/"><img align="left" alt="MAC" title="MAC" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" /></a>
-<br>
-<br>
-
-### Other Tools
-<a href="https://www.openstack.org/"><img align="left" alt="Openstack" title="Openstack" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/OpenStack-Light.svg" /></a>
-<a href="https://www.adobe.com/id_id/products/premiere.html"><img align="left" alt="Premiere" title="Premiere" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Premiere.svg" /></a>
-<a href="https://www.adobe.com/id_id/products/photoshop.html"><img align="left" alt="Photoshop" title="Photoshop" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Photoshop.svg" /></a>
-<a href="https://www.canva.com"><img align="left" alt="canva" title="canva" width="32px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" /></a>
-<br>
-<br>
-
-### My PC specifications
-1.	Processor		: AMD Ryzen 7 5700X, 4.6 Ghz, 8 Core 16 Thread.
-2.	RAM		      : Geil DDR4 Orion 3200Mhz 32GB (2X16GB).
-3.	Motherboard	: MSI MPG B550 Gaming Plus.
-4.	GPU        	: Inno3D RTX 3060 12GB LHR.
-5.	SSD		      : Klevv C910 Lite 500GB.
-
-### Contact Me
-- LinkedIn: <a href="https://www.linkedin.com/in/jafar-rahadian//"><img align="center" alt="LinkedIn" title="LinkedIn" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg"/></a>
-
-- Mail: <a href="mailto:muhammadjafar954@gmail.com"><img align="center" alt="mailto" title="mailto" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Gmail-Light.svg"/></a>
-<br>
-
------------------------------------------------------------------------------------------
-
 <p align="center">
-<a href="https://github.com/curzedb">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=curzedb&show_icons=true&include_all_commits=true&count_private=true"/>
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Jafar+Rahadian;Full-Stack+Developer+%7C+ML+Engineer;Building+Automation+%26+AI+Solutions" alt="Typing SVG" />
 </p>
 
------------------------------------------------------------------------------------------
+<p align="center">
+  <a href="https://jafarrahadian.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/jafar-rahadian/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:muhammadjafar954@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Web Developer** and **Machine Learning Engineer** based in Indonesia, passionate about building automation systems, AI-powered applications, and data-driven solutions.
+
+- 🔭 Currently working as an **IT All-Rounder** at a private company
+- 🌱 Specializing in **Python**, **PHP (Laravel)**, **JavaScript/TypeScript**
+- 🤖 Experienced in **ML/DL** projects including prediction systems & image classification
+- 📷 I also create technology-related content
+- 💼 Open to new opportunities and collaborations
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
+---
+
+## 💼 Work Experience Projects
+
+> Private repositories developed for enterprise clients
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏭 **RFQ Automation System** | Full-stack automation web system for manufacturing | React, Node.js, SQL Server |
+| 📦 **RFID Delivery App** | RFID-based delivery tracking and management | Laravel, SQL Server |
+| ♻️ **Scrap Control System** | Scrap PCB control for manufacturing | Laravel, SQL Server |
+| 📊 **Continuous Audit Checksheet** | Ongoing audit management system | Laravel, SQL Server |
+| 📝 **Internal Claim Management** | Complaint documentation & claim tracking | Laravel, SQL Server |
+| 📊 **AI/ML APPS** | AI/ML applications for manufacturing | Flask, Next.js, MySQL |
+
+---
+
+## 🚀 Featured Open Source Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📈 Stock Prediction App</h3>
+      <p align="center">
+        <a href="https://github.com/curzedb/prediksisaham_jafarrahadian">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">ML-powered stock prediction web application using neural networks</p>
+      <p align="center"><strong>Python • Streamlit • Machine Learning</strong></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 Portfolio Website</h3>
+      <p align="center">
+        <a href="https://github.com/curzedb/jafarrahadian.vercel.app">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Modern portfolio built with Next.js and Once UI</p>
+      <p align="center"><strong>Next.js • TypeScript • Vercel</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎬 Anime Recommendation System</h3>
+      <p align="center">
+        <a href="https://github.com/curzedb/sistemrekomendasi_anime_dicoding_jafarrahadian">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Content & collaborative filtering recommendation engine</p>
+      <p align="center"><strong>Python • Neural Network • sklearn</strong></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🏥 Stroke Prediction MLOps</h3>
+      <p align="center">
+        <a href="https://github.com/curzedb/mlops-stroke-prediction">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">End-to-end MLOps pipeline for stroke prediction</p>
+      <p align="center"><strong>Python • MLOps • Docker</strong></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-<a href="https://github.com/curzedb">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curzedb&layout=compact&langs_count=8&hide=jupyter%20notebook"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=curzedb&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curzedb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curzedb&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=curzedb&color=6C63FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <em>💡 "Always learning, always building."</em>
 </p>
 
 <!---
