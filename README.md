@@ -51,7 +51,6 @@ Portofolio: [jafarrahadian.vercel.app](https://jafarrahadian.vercel.app/)
 
 - Mail: <a href="mailto:muhammadjafar954@gmail.com"><img align="center" alt="mailto" title="mailto" width="32px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Gmail-Light.svg"/></a>
 <br>
-
 -----------------------------------------------------------------------------------------
 <p align="center">
 <a href="https://github.com/curzedb">
@@ -62,7 +61,7 @@ Portofolio: [jafarrahadian.vercel.app](https://jafarrahadian.vercel.app/)
 -----------------------------------------------------------------------------------------
 <p align="center">
 <a href="https://github.com/curzedb">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curzedb&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=curzedb&layout=compact&langs_count=8&hide=jupyter%20notebook"/>
 </a>
 </p>
 
