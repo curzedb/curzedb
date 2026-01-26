@@ -119,7 +119,7 @@ I'm a **Full-Stack Web Developer** and **Machine Learning Engineer** based in In
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=curzedb&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=curzedb&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -129,7 +129,7 @@ I'm a **Full-Stack Web Developer** and **Machine Learning Engineer** based in In
 </p>
 
 <p align="center">
-  <em>💡 "Always learning, always building."</em>
+  <em>💡 "Ut Supra, Sic Infra."</em>
 </p>
 
 <!---
