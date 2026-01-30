@@ -119,7 +119,7 @@ I'm a **Full-Stack Web Developer** and **Machine Learning Engineer** based in In
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=curzedb&theme=tokyonight" width="49%" height="100%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curzedb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" width="49%" height="10%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curzedb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" width="49%" height="130px"/>
 </p>
 
 ---
