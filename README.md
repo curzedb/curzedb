@@ -12,11 +12,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Web Developer** and **Machine Learning Engineer** based in Indonesia, passionate about building automation systems, AI-powered applications, and data-driven solutions.
+I'm an **L1 Cloud Engineer** based in Indonesia, and I also work as a freelance **Full-Stack Web Developer** and **Machine Learning Engineer**. I'm passionate about building automation systems, AI-powered applications, and data-driven solutions.
 
 - 🔭 Currently working as an **IT All-Rounder** at a private company
+- ☁️ Hands-on experience in infrastructure operations, monitoring, and L1 cloud support
 - 🌱 Specializing in **Python**, **PHP (Laravel)**, **JavaScript/TypeScript**
-- 🤖 Experienced in **ML/DL** projects including prediction systems & image classification
+- 🤖 Experienced in **ML/DL** projects, including prediction systems and image classification
 - 📷 I also create technology-related content
 - 💼 Open to new opportunities and collaborations
 
@@ -34,6 +35,9 @@ I'm a **Full-Stack Web Developer** and **Machine Learning Engineer** based in In
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
@@ -42,6 +46,9 @@ I'm a **Full-Stack Web Developer** and **Machine Learning Engineer** based in In
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![ZStack](https://img.shields.io/badge/ZStack-2E8B57?style=for-the-badge&logoColor=white)
+![Vinchin](https://img.shields.io/badge/Vinchin-0052CC?style=for-the-badge&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ---
 
@@ -53,10 +60,10 @@ I'm a **Full-Stack Web Developer** and **Machine Learning Engineer** based in In
 |---------|-------------|------------|
 | 🏭 **RFQ Automation System** | Full-stack automation web system for manufacturing | React, Node.js, SQL Server |
 | 📦 **RFID Delivery App** | RFID-based delivery tracking and management | Laravel, SQL Server |
-| ♻️ **Scrap Control System** | Scrap PCB control for manufacturing | Code Igniter, SQL Server |
+| ♻️ **Scrap Control System** | Scrap PCB control for manufacturing | CodeIgniter, SQL Server |
 | 📊 **Continuous Audit Checksheet** | Ongoing audit management system | Laravel, SQL Server |
 | 📝 **Internal Claim Management** | Complaint documentation & claim tracking | Laravel, SQL Server |
-| 📊 **AI/ML APPS** | AI/ML applications for manufacturing | Flask, Next.js, MySQL |
+| 📊 **AI/ML Apps** | AI/ML applications for manufacturing | Flask, Next.js, MySQL |
 
 ---
 
